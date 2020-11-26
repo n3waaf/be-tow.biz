@@ -1,1 +1,2 @@
-# be-tow.biz
+# be-two
+.biz
